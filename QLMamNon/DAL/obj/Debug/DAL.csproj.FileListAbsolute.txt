@@ -1,0 +1,520 @@
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\winform\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\Frieren\Documents\Zalo Received Files\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\15_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\21_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\25_10_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\26_10_2024\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.pdb
+F:\QLMamNon\DAL\bin\Debug\DAL.dll.config
+F:\QLMamNon\DAL\bin\Debug\DAL.dll
+F:\QLMamNon\DAL\bin\Debug\DAL.pdb
+F:\QLMamNon\DAL\bin\Debug\DTO.dll
+F:\QLMamNon\DAL\bin\Debug\DTO.pdb
+F:\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\QLMamNon\DAL\obj\Debug\DAL.dll
+F:\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Downloads\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\28_10_2024\cuaTrann\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\03_11_2024\cuaTrannn\QLMamNon\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\05_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\06_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\12_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\13_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\14_11_2024\cuaTran\QLMamNon (1)\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_01.PHATTRIENUDPM\14.11.2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\15_11_2024\cuaTrannn\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\18.11.ThanhGopDiemDanhQuaRoiGui\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\18_11_2024\gopVaoTran\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\19.11.ThanhGuiChoTranGopKeHoachQua\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\22_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\22.11_DaGanMenu\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\23_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\24_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\25_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\26_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\27.11_ThanhGuiLaiDeChoMinhGop\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\27_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\28_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\29_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\30_11_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+F:\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll.config
+F:\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll
+F:\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.pdb
+F:\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.dll
+F:\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.pdb
+F:\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.dll
+F:\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\3.12_QuangTestCode\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\01_12_2024\test\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\07_12_2024\QLMamNonFinal\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\08_12_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\_9_12_ThanhGuiCodeDeChot\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\09_12_2024\sapfinal\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\nộp báo cáo\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\DACN_QLHSTruongMamNon\DACN_QLHSTruongMamNon_PhanSourceCode\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\15_12_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\_16.12_ThanhGuiCodeChoGop\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\16_12_2024\demnaysua\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\_05DOANCHUYENNGANH\_18.12_ThanhDaSua\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\18_12_2024\QLMamNon\DAL\obj\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DAL.dll.config
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DAL.pdb
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DTO.dll
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DTO.pdb
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.dll
+D:\HK7\Đồ án chuyên ngành\code\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.pdb
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DAL.dll.config
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DAL.dll
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DAL.pdb
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DTO.dll
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\bin\Debug\DTO.pdb
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.dll
+C:\Users\Quang\Desktop\QlMamNOnCuuTui\Demo_BaoCao\QLMamNon\DAL\obj\Debug\DAL.pdb

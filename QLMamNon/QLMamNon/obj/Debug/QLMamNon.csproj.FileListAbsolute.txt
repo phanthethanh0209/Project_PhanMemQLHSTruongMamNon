@@ -1,0 +1,118 @@
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\QLMamNon.exe.config
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\QLMamNon.exe
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\QLMamNon.pdb
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Bunifu.Licensing.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Bunifu.UI.WinForms.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Newtonsoft.Json.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\RestSharp.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Buffers.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.CodeDom.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Memory.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Numerics.Vectors.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Text.Encodings.Web.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Text.Json.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.ValueTuple.dll
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Bunifu.UI.WinForms.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\Newtonsoft.Json.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\RestSharp.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Buffers.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.CodeDom.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Memory.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Numerics.Vectors.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Text.Encodings.Web.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Text.Json.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\bin\Debug\System.ValueTuple.xml
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.csproj.AssemblyReference.cache
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.Form1.resources
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.Properties.Resources.resources
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.csproj.GenerateResource.cache
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.csproj.CoreCompileInputs.cache
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.csproj.Up2Date
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.exe
+D:\HK7\Đồ án chuyên ngành\code\QLMamNon\obj\Debug\QLMamNon.pdb
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\QLMamNon.exe.config
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\QLMamNon.exe
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\QLMamNon.pdb
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\RestSharp.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Buffers.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.CodeDom.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Memory.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Text.Json.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.ValueTuple.dll
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\RestSharp.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Buffers.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.CodeDom.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Memory.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Text.Json.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\System.ValueTuple.xml
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.csproj.AssemblyReference.cache
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.Properties.Resources.resources
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.csproj.GenerateResource.cache
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.csproj.CoreCompileInputs.cache
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.csproj.Up2Date
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.exe
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.pdb
+C:\Users\Frieren\Downloads\QLMamNon\bin\Debug\Guna.UI2.dll
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.MainMenu.resources
+C:\Users\Frieren\Downloads\QLMamNon\obj\Debug\QLMamNon.Form1.resources
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\QLMamNon.exe.config
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\QLMamNon.exe
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\QLMamNon.pdb
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Bunifu.Licensing.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\RestSharp.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.CodeDom.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\RestSharp.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.CodeDom.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.Form1.resources
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.MainMenu.resources
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.Properties.Resources.resources
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.csproj.Up2Date
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.exe
+C:\Users\DELL\Downloads\QLMamNon (1)\QLMamNon\obj\Debug\QLMamNon.pdb

@@ -1,0 +1,34 @@
+Tài khoản:
+
+Hiệu trưởng:
+	tên tk: nguyen.tuan
+	password: Tuan123456@
+
+Nhân viên văn phòng:
+	tên tk: pham.quy
+	password: Pham123456@
+
+Kế toán:
+	tên tk: le.hoang
+	password: Hoang123456@
+
+Giáo viên hỗ trợ:
+	tên tk: nguyen.tuyet
+	password: Tuyet123456@
+
+Giáo viên phụ trách:
+	tên tk: tran.hai
+	password: Hai123456@
+
+
+password các người dùng còn lại: password123
+
+tk gửi mail:
+	phthanhvote.info@gmail.com
+	glkx bkhh mgig sokj
+
+note:
+thêm 3 hs vào lớp mầm 1
+	HSNH23240016
+	HSNH23240017
+	HSNH23240018
